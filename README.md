@@ -4,6 +4,7 @@ Abdel Aziz student in artificial intelligence and web and mobile developer Abdel
 * 🌍  I'm based in Lomé Togo
 * ✉️  You can contact me at [azizmetchonou434@gmail.com](mailto:azizmetchonou434@gmail.com)
 * 🧠  I'm learning fast-api
+* 🧠  I'am learning tasks automation with AI
 ---------------------------------------------------------------
 ### Skills
 
