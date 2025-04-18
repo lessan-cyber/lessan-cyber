@@ -3,8 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Abdel Aziz student in artificial intelligence and web and mobile developer Abdel Aziz is a dedicated computer science student at College of Paris University, with a lot of interest in software and artificial intelligence development, big data ,blockchain technologies . he's also interested in web , mobile development, home-lab stuffs . Other than that, he has good problem-solving skills and a lot of practical experience in using programming languages such as Python, Javascript . He has strong technical skills combined with excellent communication and an inborn flair for teamwork. He is an active student, participating in many university clubs, and looking for new learning opportunities to become more professionally developed.
 * 🌍  I'm based in Lomé Togo
 * ✉️  You can contact me at [azizmetchonou434@gmail.com](mailto:azizmetchonou434@gmail.com)
-* 🧠  I'm learning fast-api
-* 🧠  I'am learning tasks automation with AI
+* 🧠  I'm learning AI/ML
+* 🧠  I'am learning tasks automation with AI 
 ---------------------------------------------------------------
 ### Skills
 
